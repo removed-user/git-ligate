@@ -1,0 +1,1 @@
+use status to check the git db against lua state
