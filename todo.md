@@ -42,7 +42,14 @@
 - People will expect "build tooling"
    - So add a Makefile+CmakeLists.text That feed vars to the lua build file, since the first is good, and the latter... less shit than meson
 
-
-
-
 ## Transpilation Pipeline
+
+
+
+
+
+#### Check projects/tools that are - "as similar as it gets"
+vim.pack -- neovim/runtime/lua/vim/pack
+lazy.nvim
+luvit/lit
+All of these are jit-specific, 
